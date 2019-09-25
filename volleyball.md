@@ -1,3 +1,1 @@
-This is a github party
-
-Whoop whoop!! love Kat :)
+This is a working document for the 4th CodeOp 
